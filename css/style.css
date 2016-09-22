@@ -188,6 +188,12 @@
 	width:100%;
 }
 
+
+.fill-width:focus{
+	width:100%;
+	background-color: #effadb;
+}
+
 .page-element-format.topic-header{
 	padding-top:0;
 }
